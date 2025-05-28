@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Rom hacker, currently working on updating my previous sonic rom hacks, conic winter adventures, and an ironic port of uncle duck for the genesis
 <!--
 **ConiNight/ConiNight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
